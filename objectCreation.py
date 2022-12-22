@@ -27,20 +27,3 @@ print(df2.describe)
 print(df2.T) # Transpose
 print(df.sort_index(axis=1, ascending=False))
 print(df2.sort_values(by="C"))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
